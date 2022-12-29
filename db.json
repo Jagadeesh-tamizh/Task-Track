@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "new task",
+      "day": "5 pm ",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Read MPMC",
+      "day": "8.30 PM",
+      "reminder": false,
+      "id": 10
+    },
+    {
+      "text": "prepare for interview",
+      "day": "30 December, 11 Am.",
+      "reminder": true,
+      "id": 12
+    },
+    {
+      "text": "Update github repositories",
+      "day": "december 20",
+      "reminder": false,
+      "id": 13
+    },
+    {
+      "text": "Work on crypto-detective app",
+      "day": "december 5",
+      "reminder": true,
+      "id": 14
+    }
+  ]
+}
